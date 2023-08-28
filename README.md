@@ -2,7 +2,7 @@
 - 👀 I’m interested in web-development 
 - 🌱 I’m currently learning BSSE (Software Engineering) from Comsats University Lahore
 - 📫 fa19-bse-014@cuilahore.edu.pk
-- portfolio : https://ad-majid-portfolio.herokuapp.com/
+- portfolio : https://abdul-majid10.github.io/Web-Bootstrap-CV_Q1/
 
 <!---
 Abdul-Majid10/Abdul-Majid10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
