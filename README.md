@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdul-Majid
 - 👀 I’m interested in web-development 
 - 🌱 I’m currently learning BSSE (Software Engineering) from Comsats University Lahore
-- 📫 fa19-bse-014@cuilahore.edu.pk
+- 📫 iam.admajid@gmail.com
 - portfolio : https://abdul-majid10.github.io/Web-Bootstrap-CV_Q1/
 
 <!---
