@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdul-Majid
-- 👀 I’m interested in web-development 
-- 🌱 I’m currently learning BSSE (Software Engineering) from Comsats University Lahore
+- 👀 I’m interested in complex and challenging projects 
+- 🌱 I’m Professional Magento 2 | MERN | React Native | Next Js Developer (Software Engineering)
 - 📫 iam.admajid@gmail.com
 - portfolio : https://abdul-majid10.github.io/Web-Bootstrap-CV_Q1/
 
