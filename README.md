@@ -2,7 +2,7 @@
 - 👀 I’m interested in complex and challenging projects 
 - 🌱 I’m Professional Magento 2 | MERN | React Native | Next Js Developer (Software Engineering)
 - 📫 iam.admajid@gmail.com
-- portfolio : https://abdul-majid10.github.io/Web-Bootstrap-CV_Q1/
+- portfolio : https://majiddev.com/
 
 <!---
 Abdul-Majid10/Abdul-Majid10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
