@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdul-Majid
 - 👀 I’m interested in complex and challenging projects 
 - 🌱 I’m Professional Magento 2 | MERN | React Native | Next Js Developer (Software Engineering)
-- 📫 iam.admajid@gmail.com
+- 📫 majiddev10@gmail.com
 - portfolio : https://majiddev.com/
 
 <!---
